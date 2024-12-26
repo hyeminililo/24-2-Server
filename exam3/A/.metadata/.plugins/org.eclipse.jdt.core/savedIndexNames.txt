@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+/Users/hyem/server_workspace/exam3/A/.metadata/.plugins/org.eclipse.jdt.core
+935644605.index
